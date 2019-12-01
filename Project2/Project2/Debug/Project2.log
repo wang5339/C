@@ -1,0 +1,5 @@
+﻿源1.obj : error LNK2005: _main 已经在 源.obj 中定义
+源2.obj : error LNK2005: _main 已经在 源.obj 中定义
+源3.obj : error LNK2005: _main 已经在 源.obj 中定义
+源3.obj : error LNK2005: "int (* a)[101]" (?a@@3PAY0GF@HA) 已经在 源2.obj 中定义
+G:\c语言\Project2\Debug\Project2.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
